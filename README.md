@@ -20,5 +20,5 @@ Some python libraries
 ---
 
 ### Certification
-![Görkem Berk Çapar](img/certificate_ex.png) 
+![](img/certificate_ex.png) 
 
